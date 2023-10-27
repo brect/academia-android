@@ -29,3 +29,6 @@ Com os exercícios propostos, você vai conseguir criar soluções, enfrentar de
 ## Intermediário
 
 ## Avançado
+
+## Dúvidas e sugestões
+Para duvidas e sugestões você poderá abrir uma issue, [clicando aqui](https://github.com/brect/academia-android/issues/new).
