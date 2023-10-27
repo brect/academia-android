@@ -24,11 +24,15 @@ A ideia é te mostrar o caminho, te dar dicas e, juntos, construirmos uma base s
 Com os exercícios propostos, você vai conseguir criar soluções, enfrentar desafios e aprender com cada passo que der, tendo uma cabeca de DEV. #vamosjuntos
 
 
-## Domine o Básico
+## Iniciante Jedi - Domine o Básico
+Pronto para começar sua jornada? Depois de dominarmos os fundamentos da programação e suas bases necessárias, agora é hora de iniciar uma jornada para nos tornarmos futuros Jedis.
 
-## Intermediário
+## Padawan - Aprimorando os seus poderes
+Este será o nível onde aprimoraremos suas habilidades, tornando-se mais proficientes no desenvolvimento de aplicativos.
 
-## Avançado
+## Mestre Jedi - Dominando a Força
+Este será o seu nível avançado, aqui é onde você se torna um verdadeiro mestre em seu campo, dominando completamente as habilidades necessárias para sua jornada.
 
-## Dúvidas e sugestões
+
+### Dúvidas e sugestões
 Para duvidas e sugestões você poderá abrir uma issue, [clicando aqui](https://github.com/brect/academia-android/issues/new).
