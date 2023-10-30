@@ -48,7 +48,7 @@ A ideia é que a sintaxe do pseudocódigo seja fácil de entender e siga uma est
 
 Agora vamos por em prática a nossa teoria, pense de forma simples, mas pense de forma que podemos resolver cada situação, com isso vamos melhorar suas habilidades de pseudocódigo.
 
-Caso queira resolver e discutir a resolução, abra uma issue seguindo o padrão abaixo
+Caso queira discutir após resolver um exercício, abra uma issue seguindo o padrão abaixo
 
 >**Titulo**: [fundamentos][logica][pseudocódigo] Conversor de temperatura
 
