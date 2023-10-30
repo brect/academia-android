@@ -10,7 +10,7 @@ Para mandarmos bem no desenvolvimento de aplicativos, é essencial entender bem 
 Esses temas serão o core do seu aprendizado e as ferramentas-chave no seu dia a dia como desenvolvedor, te deixando pronto para enfrentar e solucionar desafios complexos de forma tranquila e eficaz.
 
 Nesse início, vamos abordar os seguintes temas:
-- [Lógica de programação](https://github.com/brect/academia-android/blob/main/fundamentos/01%20-%20L%C3%B3gica%20de%20programac%C3%A3o.md)
+- [Lógica de programação](https://github.com/brect/academia-android/blob/main/fundamentos/01%20-%20L%C3%B3gica%20de%20programa%C3%A7%C3%A3o/01%20-%20Introdu%C3%A7%C3%A3o%20a%20l%C3%B3gica%20de%20programa%C3%A7%C3%A3o.md)
 - [Estrutura de dados e algoritmos](https://github.com/brect/academia-android/blob/main/fundamentos/02%20-%20Estrutura%20de%20dados%20e%20algoritmos.md)
 - [Linguagens de Programação](https://github.com/brect/academia-android/blob/main/fundamentos/03%20-%20Kotlin.md): Java e Kotlin (Kotlin é altamente recomendado, pois é a li[nguagem oficial para o desenvolvimento Android)
 - [Fundamentos de POO (Programação Orientada a Objetos)](https://github.com/brect/academia-android/blob/main/fundamentos/04%20-%20POO.md)
