@@ -1,6 +1,7 @@
 ## Pseudocódigo
 
-###O que é pseudocódigo?
+### O que é pseudocódigo?
+
 **_Pseudocódigo_** é como desenhar um mapa antes de fazer uma viagem. É uma maneira de escrever as instruções para um computador de forma simples, como se estivesse escrevendo em uma linguagem de verdade, mas de um jeito que _**qualquer pessoa possa entender**_.
 
 Imagine que você está dando direções para alguém chegar até a sua casa. Você não vai usar uma linguagem de programação complicada, certo? Em vez disso, você escreve instruções simples, como "Vire à esquerda na rua X" ou "Siga em frente por 2 quarteirões". Isso é um pouco como o pseudocódigo.
